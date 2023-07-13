@@ -1,0 +1,41 @@
+ body {
+	color: #000000;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #F0E7FF;
+	margin-left: 15px;
+}
+h1,h2 {
+	text-align: center;
+	font-weight: bold;
+}
+h3 {
+	font-weight: bold; 
+}
+h4 {
+	text-align: center; 
+	font-weight: bold;
+}
+h6 {
+	font-weight: bold;
+	text-align: center;
+}
+img {
+	border: 2px solid black;
+	border-radius: 	10px;
+	display: block;
+	margin: 0 auto; 
+}
+.informacion-personal {
+	text-align: center;
+	font-weight: bold; 
+}
+.bold {
+	font-weight: bold;
+}
+.justificar {
+	text-align: justify;
+}
+.centrar-enfatizar {
+	text-align: center; 
+	font-weight: bold;
+}
