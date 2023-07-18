@@ -40,3 +40,6 @@ img {
 	font-weight: bold;
 }
 
+.cv-section {
+	display: none;
+}
