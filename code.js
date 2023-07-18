@@ -1,7 +1,8 @@
-function ocultar(){
-	document.getElementById('cv-engllish', 'cv-spanish').style.display = 'none';
-}
-
-function mostrar(){
-	document.getElementById('cv-engllish', 'cv-spanish').style.display = 'block';
-}
+function toggleSection() {
+	var section = document.getElementById("cv-english");
+	if (section.style.display === "none") {
+	  section.style.display = "block";
+	} else {
+	  section.style.display = "none";
+	}
+  }
