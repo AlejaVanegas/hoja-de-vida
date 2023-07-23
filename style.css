@@ -43,3 +43,6 @@ img {
 .cv-section {
 	display: none;
 }
+.cv-section2 {
+	display: block;
+}
